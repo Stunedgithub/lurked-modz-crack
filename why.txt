@@ -1,0 +1,5 @@
+well they decided to post my dumper and he said it was "hard to get" his words were "vouch up this shit was NOT easy to get" i posted the whole dumper into a free pasting server but somehow its hard to get? basically he implied that it was private
+
+he even said its "encrypted and protected" when all i did was decrypt those little raw skCrypt strings without even needing runtime
+
+well check out strings.txt for his strings
